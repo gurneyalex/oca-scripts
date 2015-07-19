@@ -1,0 +1,3 @@
+Update travis configuration
+
+don't use "sudo pip install" in travis.yml
