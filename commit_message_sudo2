@@ -1,0 +1,4 @@
+Update travis configuration
+
+use sudo: false to enable container build
+use cache: pip to cache pip packages
